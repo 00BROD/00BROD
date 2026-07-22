@@ -3,6 +3,10 @@
 Data analyst. SQL, Python, statistics, and BI tooling. Bilingual (English / Spanish).
 I turn messy data into decisions — and ship the tools around them.
 
+<div align="center">
+  <img src="./ascii-portrait.svg" width="780" alt="Animated ASCII portrait of Brian Rodriguez" />
+</div>
+
 **Recently:** Marketing Data Analyst Intern @ LinkedIn · Data Analytics grad, Year Up United
 
 ### Stack

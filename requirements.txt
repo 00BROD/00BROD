@@ -1,0 +1,7 @@
+Pillow>=10,<13
+numpy>=1.26,<2.3
+opencv-python-headless>=4.9,<5
+rembg==2.0.67
+onnxruntime>=1.17,<2
+numba==0.61.2
+llvmlite==0.44.0
